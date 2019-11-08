@@ -16,3 +16,5 @@
 2. Source files:ProbeHashMap.java, DoubleHashMap.java, AbstractHashMap.java, ReadFile.java, Entry.java, Main.java, Suspect.java, Map.java, AbstractMap.java
 
 3. Chart image: complexity.png
+
+4. Input data: https://drive.google.com/open?id=1VUI2TTc6Ow5M6o0HAlpHQ-i3DtP5VMWg 
